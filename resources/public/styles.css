@@ -1,0 +1,20 @@
+body {
+    font-family: "Ubuntu Light", helvetica, sans-serif;
+    margin: auto;
+    width: 70%;
+}
+body .greeting {
+    font-size: 30px
+}
+body .name-form {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+body .footer img {
+    border-radius: 16px;
+    max-width: 100%
+    /* width: 70%; */
+}
+body .credentials {
+    font-size: 10px
+}

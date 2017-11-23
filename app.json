@@ -1,0 +1,8 @@
+{
+  "name": "Website with Clojure",
+  "description": "Stupid website with Clojure backend you will never use",
+  "image": "heroku/clojure",
+  "addons": [ "heroku-postgresql" ],
+  "repository": "https://github.com/qezz/clojure-website",
+  "keywords": ["I_dont_know_the_meaning_of_this", "clojure", "website", "template"]
+}
