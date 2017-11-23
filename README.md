@@ -10,7 +10,7 @@ Because I don't know.
 
 ### Deploy your personal copy of *this* ###
 
-`[Heroku deploy button]`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qezz/clojure-website/tree/master)
 
 ## Custom ultimative dinamic (only) templates ##
 
